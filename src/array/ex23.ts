@@ -1,4 +1,4 @@
-// // Exercice 3: Générer un rapport des produits groupés par disponibilité et triés par prixObjectif : Tu veux créer un rapport des produits séparés en deux groupes : en stock et hors stock. Dans chaque groupe, les produits doivent être triés par prix croissant.Utilise Array.reduce (pour grouper les produits en fonction de leur disponibilité, puis appliquer un tri interne sur chaque groupe).
+// // Exercice 3: Générer un rapport des produits groupés par disponibilité et triés par prixObjectif : Tu veux créer un rapport des produits séparés en deux groupes : en stock et hors stock. Dans chaque groupe, les produits doivent être triés par prix croissant.
 
 // import { Product } from "./type";
 

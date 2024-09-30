@@ -1,10 +1,29 @@
-// // Exercice 1: Vérifier si tous les produits sont en stock et leur nombreUtilise Array.all (pour vérifier si tous les produits sont en stock).Utilise Array.any (pour vérifier si au moins un produit n’est pas en stock).Utilise Array.length (pour obtenir le nombre total de produits).
+// // Exercice 1: extraire les produits en stock
 
-// import { Product } from "./type";
+import { Product } from "./type";
 
-// const products: Product[] = [
-//   { name: "Laptop", price: 1000, inStock: true },
-//   { name: "Mouse", price: 25, inStock: false },
-//   { name: "Keyboard", price: 75, inStock: true },
-// ];
-export const ArrayFn1 = () => {};
+const products: Product[] = [
+  { name: "Laptop", price: 1000, inStock: true },
+  { name: "Mouse", price: 25, inStock: false },
+  { name: "Keyboard", price: 75, inStock: true },
+];
+
+// const listProductsInStock = (products: Product[]): Product[] => {};
+
+// // Exercice 2: calculer le prix total des produits en stock
+// const calculateTotalPrice = (products: Product[]): number => {};
+
+// // Exercice 3: trouver le produit le moins cher en stock
+// const findCheapestProductInStock = (products: Product[]): Product => {};
+
+// // Exercice 4: trouver le produit le plus cher en stock
+// const findMostExpensiveProductInStock = (products: Product[]): Product => {};
+
+// // Exercice 5: trouver un produit par nom -> le retour doit être une option
+// const findProductByName = (
+//   products: Product[],
+//   name: string,
+// ): Product | undefined => {};
+
+// // Exercice 6: trier les produits par prix croissant
+// const sortProductsByPrice = (products: Product[]): Product[] => {};

@@ -1,4 +1,5 @@
-// // Exercice 13: Réorganiser les produitsUtilise Array.reverse (pour renverser l’ordre des produits).Utilise Array.shuffle (pour mélanger les produits de manière aléatoire).
+// // inverser l'ordre des produits
+// mélanger l'ordre des produits
 
 // import { Product } from "./type";
 

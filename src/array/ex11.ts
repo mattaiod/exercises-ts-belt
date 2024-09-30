@@ -1,5 +1,6 @@
-// // Exercice 11: Extraire des sous-listes depuis des positions spécifiquesUtilise Array.slice (pour extraire la sous-liste allant de l'indice 1 à 3).Utilise Array.takeExactly (pour prendre exactement 2 produits au début de la liste).Utilise Array.takeWhile (pour prendre les produits tant que leur prix est inférieur à 100).
-
+// extraire une sous liste de l'index 1 à 3
+// prendre les 2 premiers éléments
+// prendre des éléments tant que le prix est supérieur à 5
 // import { Product } from "./type";
 
 // const products: Product[] = [

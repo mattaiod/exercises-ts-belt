@@ -1,4 +1,4 @@
-// // Exercice 12: Grouper et trier les produitsUtilise Array.groupBy (pour grouper les produits par leur disponibilité).Utilise Array.sort (pour trier les produits par prix).Utilise Array.sortBy (pour trier les produits par un autre critère, comme le nom).
+// //  grouper les produits par catéogire de prix: ceux entre 0 à 100 et ceux entre 100 à 1000
 // import { Product } from "./type";
 
 // const products: Product[] = [

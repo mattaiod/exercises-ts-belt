@@ -1,4 +1,4 @@
-// // Exercice 14: Retirer des doublons dans une listeUtilise Array.uniq (pour supprimer les doublons dans la liste).Utilise Array.uniqBy (pour supprimer les doublons en fonction du nom des produits).
+// // Exercice 14: Retirer les doublons de la liste pour ceux ayant le même prix
 
 // import { Product } from "./type";
 

@@ -1,4 +1,4 @@
-// // Exercice 20: Créer une liste répétitive et la transformerUtilise Array.repeat (pour créer une liste en répétant un produit 5 fois).Utilise Array.map (pour appliquer une transformation à chaque produit répété).
+// // Exercice 20: Créer une liste en répétant une valeur
 
 // import { Product } from "./type";
 

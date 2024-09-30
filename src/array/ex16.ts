@@ -1,4 +1,4 @@
-// // Exercice 16: Calculer des valeurs cumuléesUtilise Array.reduce (pour calculer la somme totale des prix des produits).Utilise Array.reduceReverse (pour appliquer une réduction depuis la fin).Utilise Array.reduceWithIndex (pour calculer des valeurs cumulées en fonction de leur index).
+// // Exercice 16: faire la somme de tous les prices des produits
 
 // import { Product } from "./type";
 

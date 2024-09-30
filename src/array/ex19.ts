@@ -1,4 +1,4 @@
-// // Exercice 19: Réorganiser et fusionner des élémentsUtilise Array.swapAt (pour échanger deux produits aux indices 0 et 1).Utilise Array.union (pour fusionner deux listes en retirant les doublons)
+// // Exercice 19: fussionner 2 tableaux en retirant les doublons
 
 // import { Product } from "./type";
 

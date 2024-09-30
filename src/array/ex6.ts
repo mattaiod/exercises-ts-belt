@@ -1,6 +1,6 @@
 // import { Product } from "./type"
 
-// // Exercice 6: Comparer des listes et tester l'inclusionUtilise Array.eq (pour comparer deux listes de produits).Utilise Array.includes (pour vérifier si un produit spécifique est inclus dans la liste)
+// // Exercice 6: Utilise A.includes (pour vérifier si un produit spécifique est inclus dans la liste)
 
 // const products1: Product[] = [
 //   { name: 'Laptop', price: 1000, inStock: true },

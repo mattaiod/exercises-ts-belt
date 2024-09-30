@@ -1,4 +1,4 @@
-// // Exercice 7: Filtrer les produits par condition et indexUtilise Array.filter (pour garder uniquement les produits en stock).Utilise Array.filterWithIndex (pour garder les produits à des indices pairs).Utilise Array.filterMap (pour appliquer une transformation sur les produits filtrés).
+// // Exercice 7: garder les produits qui sont au dessus de 74€
 
 // import { Product } from "./type";
 
