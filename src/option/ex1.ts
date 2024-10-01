@@ -1,4 +1,3 @@
-// // Exercice 1: Vérifier et filtrer une option, puis obtenir une valeur par défautFonctions à utiliser : fromNullable, filter, getWithDefaultObjectif : Créer une option à partir de 'Laptop', filtrer les options contenant la lettre 'L', puis obtenir la valeur par défaut 'No Item' si l'option est vide.
-
+// // Exercice 1: faire un pipe prenant item, le transformer en Option en utilisant fromNullable,  et utiliser O.map pour suffixer le nom de l'item avec ' - Suffix' dans le cas où l'item est 'Laptop', si item est None alors retourner 'Inconnu' (dans un getWithDefault)
 // const item = 'Laptop';
 export const optionFn1 = () => {};

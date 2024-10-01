@@ -1,4 +1,4 @@
-// // Exercice 2: Appliquer plusieurs prédicats et vérifier si tous sont satisfaitsFonctions à utiliser : allPass, tap, when, identityObjectif : Vérifie si un nombre est supérieur à 10 et pair. Si oui, affiche 'Validé', sinon retourne simplement la valeur d'origine avec identity.
+// // Exercice 2: Créer une fonction qui prend un nombre et un tableau de prédicats et retourne un booléen (allPass)
 // const number = 12;
 // const predicates = [
 //   (n: number) => n > 10,

@@ -1,4 +1,9 @@
-// // Exercice 7: Créer une fonction exécutée une seule foisFonctions à utiliser : once, tap, identityObjectif : Crée une fonction qui affiche 'Appelé une fois' la première fois qu'elle est invoquée, puis utilise identity pour les appels suivants.Données :
+// // Exercice 7: crée une fonction utilisant une close qui prend un argument, la première fois qu'on l'utilise elle retourne "One shot" puis ensuite elle retourne "Too late" de manière fonctionnel
+import { A, O, pipe } from "@mobily/ts-belt";
+const ListProduct = [
+  { name: 3, price: 1000, inStock: 3 },
+  { name: 3, price: 1000, inStock: 3 },
+  { name: 3, price: 1000, inStock: 3 },
+];
 
-// let called = false;
-export const functionFn7 = () => {};
+const fn = (nb: number) => nb;

@@ -1,4 +1,4 @@
-// // Exercice 2: Transformer une option à partir d'un prédicat, puis extraire une valeurFonctions à utiliser : fromPredicate, map, getWithDefaultObjectif : Créer une option à partir d'un prédicat (valeur > 50), transformer cette option en multipliant la valeur par 2, puis obtenir une valeur par défaut de 0 si l'option est vide.
+// // Exercice 2: dans un pipe, transformer value en Option et utiliser O.map pour doubler sa valeur, puis ajouter 1, faire un tap pour console.log, puis soustraire 8, puis si le nombre finit par un 4 ou un 7 alors renvoyer None, sinon renvoyer Some avec la valeur, enfin utiliser getWithDefault pour retourner 0 si None
 
 // const value = 75;
 export const optionFn2 = () => {};
